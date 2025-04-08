@@ -1,0 +1,25 @@
+{
+  "members" : [
+    {
+       "firstName": "Mohammad Ilham",
+       "lastName": "Firdaus",
+       "gender": "male",
+       "age": 21,
+       "nim": "103022300043"
+    },
+    {
+       "firstName": "Muhammad",
+       "lastName": "Endihan",
+       "gender": "male",
+       "age": 20,
+       "nim": "103022300061"
+    },
+    {
+      "firstName": "Syahdan",
+      "lastName": "Mansiz",
+      "gender": "male",
+      "age": 21,
+      "nim": "103022300063"
+    }
+  ]
+}

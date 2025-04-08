@@ -16,7 +16,7 @@ namespace jurnalmod07
         {
             DataMahasiswa103022300043.ReadJSON();
             Console.WriteLine();
-            //KuliahMahasiswa_103022300043.ReadJSON();
+            TeamMembers103022300043.ReadJSON();
         }
     }
 }
