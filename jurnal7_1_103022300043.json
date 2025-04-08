@@ -1,0 +1,15 @@
+{
+   "firstName": "Mohammad Ilham",
+   "lastName": "Firdaus",
+   "gender": "male",
+   "age": 21,
+   "address": {
+       "streetAddress": "Baleendah",
+       "city": "Bandung",
+       "state": "West Java"
+   },
+   "courses": [
+       { "code": "CRI2C4", "name": "Konstruksi Perangkat Lunak" },
+       { "code": "CRI2C5", "name": "Basis Data" }
+   ]
+}
